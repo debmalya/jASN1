@@ -2,6 +2,8 @@
 jASN1 is an LGPL licensed Java ASN.1 BER encoding/decoding library.
 
 Main functionality
-## Compile 
-## Encode
-## Decode 
+* Compile 
+* Encode
+* Decode 
+
+## Getting Started
